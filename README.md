@@ -1,6 +1,4 @@
-# DSC-MITAOE
-official Website of DSC MITAOE
+# dscmitaoe.github.io
 
-The Developer Student Clubs (DSC) program is a grassroots channel through which we provide development skills for students, towards employability. ​In addition to workshops, we also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations, and then provide visibility via showcases.
-
+Official Website of DSC MITAOE
 https://dscmitaoe.github.io
