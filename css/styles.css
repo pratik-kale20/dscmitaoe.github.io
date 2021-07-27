@@ -94,6 +94,10 @@ p {
   font-size: 18px;
   font-family: 'Google Sans', sans-serif;
 }
+
+.zuri img{
+  margin-top: 10px;
+}
 @media only screen and (max-width: 600px){
   .lead{
     font-size: 16px;
@@ -102,8 +106,9 @@ p {
         display: none;
     }
     .zuri{
-        text-align: left;
+        text-align: center;
         line-height: 1.5;
+        font-size: 2.311rem;
     }
 }
 
@@ -507,9 +512,8 @@ p {
   float: none;
   border-radius: 8px;
 }
-.event-card{
 
-}
+
 .tagging{
   display: inline-flex;
   border-radius: 15px;
@@ -539,9 +543,7 @@ p {
   border-color: #d6d8db;
 }
 
-.project-card .btn{
 
-}
 .feature-card {
   -webkit-box-shadow: 0 0 15px rgba(99, 114, 130, 0.3);
           box-shadow: 0 0 15px rgba(99, 114, 130, 0.3);
@@ -964,7 +966,6 @@ p {
 
 .screen-slider__item img {
   max-width: 100%;
-  vertical-align: middle;
   margin-left: auto;
   margin-right: auto;
   display: block;
