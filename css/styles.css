@@ -1394,7 +1394,7 @@ hr{
 }
 
 .social-list__inline li {
-  margin-right: 15px;
+  margin-right: 15px !important;
 }
 
 .social-list__inline li:last-of-type {
